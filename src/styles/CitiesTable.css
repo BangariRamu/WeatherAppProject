@@ -1,0 +1,12 @@
+
+.cities-table-container {
+    margin: 20px;
+    border: 1px solid #ddd;
+    padding: 20px;
+  }
+  
+  h1 {
+    font-size: 1.5rem;
+    color: #333;
+  }
+  
